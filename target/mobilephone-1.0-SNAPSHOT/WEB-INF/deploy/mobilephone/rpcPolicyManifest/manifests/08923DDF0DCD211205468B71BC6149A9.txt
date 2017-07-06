@@ -1,0 +1,2 @@
+serviceClass: com.mobile.ontology.client.GreetingService
+path: 1683A3C30905FECB2B2D48901F00E70F.gwt.rpc

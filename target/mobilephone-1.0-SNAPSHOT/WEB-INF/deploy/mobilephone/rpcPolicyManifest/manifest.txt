@@ -1,0 +1,3 @@
+# Module mobilephone
+# RPC service class, partial path of RPC policy file
+com.mobile.ontology.client.GreetingService, 1683A3C30905FECB2B2D48901F00E70F.gwt.rpc

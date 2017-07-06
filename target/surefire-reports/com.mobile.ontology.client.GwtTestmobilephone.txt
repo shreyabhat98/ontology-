@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: com.mobile.ontology.client.GwtTestmobilephone
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.33 sec
+testGreetingService(com.mobile.ontology.client.GwtTestmobilephone)  Time elapsed: 13.286 sec
+testFieldVerifier(com.mobile.ontology.client.GwtTestmobilephone)  Time elapsed: 0.036 sec
